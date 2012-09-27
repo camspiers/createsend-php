@@ -1,7 +1,6 @@
 {
     "name": "campaignmonitor/createsend",
     "type": "library",
-    "version": "2.2.0",
     "description": "A php library which implements the complete functionality of v3 of the Create Send API.",
     "autoload": {
         "classmap": ["/", "class/"]
